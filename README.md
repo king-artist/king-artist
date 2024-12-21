@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hello, There ! All these are for fun and basics only.
 
 <!--
 **king-artist/king-artist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
